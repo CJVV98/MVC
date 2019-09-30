@@ -71,7 +71,7 @@ public class ListaEstudiantes implements ActionListener, KeyListener{
     public void keyPressed(KeyEvent e) {}
     /**
      * Metodo para leer la tecla seleccionada
-     * @param e 
+     * @param e evento
      */
     @Override
     public void keyReleased(KeyEvent e) { }
